@@ -1,6 +1,4 @@
 # Environment variables and secrets
-.env
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
@@ -156,8 +154,6 @@ jspm_packages/
 .yarn-integrity
 
 # dotenv environment variables file
-.env
-.env.test
 
 # parcel-bundler cache (https://parceljs.org/)
 .cache
@@ -181,3 +177,4 @@ public
 # Temporary folders
 tmp/
 temp/ 
+config.bat
